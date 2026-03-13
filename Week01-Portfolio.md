@@ -58,7 +58,7 @@ The network topology consists of **one Linux host node** configured with a stati
 
 ### Topology Screenshot
 
-![Network Topology](GNS3-Intro-12308908-network.png)
+![Network Topology](images/GNS3-Intro-12308908-network.png)
 
 ---
 
@@ -90,7 +90,7 @@ Command used to verify the IP address:
 
 ### Console Screenshot
 
-![IP Address Console](GNS3-Intro-12308908-ipaddress.png)
+![IP Address Console](images/GNS3-Intro-12308908-ipaddress.png)
 
 Output confirmed that **eth0** is assigned the IP address **10.10.1.1**.
 

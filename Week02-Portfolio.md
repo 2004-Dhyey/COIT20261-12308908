@@ -112,7 +112,7 @@ This confirmed that each host had the correct IP address assigned.
 
 The network consists of four hosts connected to a switch.
 
-![Network Topology](images/Setting-IP-StudentID-network.png)
+![Network Topology](images/Setting-IP-12308908-network.png)
 
 ---
 
@@ -130,7 +130,7 @@ ping 10.1.1.2
 
 Ping was run from Host A to Host B and stopped after a few responses using Ctrl + C.
 
-![Simple Ping](images/Ping-Basics-StudentID-simple.png)
+![Simple Ping](images/Ping-Basics-12308908-simple.png)
 
 ---
 
@@ -142,7 +142,7 @@ ping 10.1.1.99
 
 Since no device exists at this IP, the result showed packet loss.
 
-![Ping Error](images/Ping-Basics-StudentID-error.png)
+![Ping Error](images/Ping-Basics-12308908-error.png)
 
 ---
 
@@ -158,7 +158,13 @@ Options used:
 - -i 2 → 2 second interval  
 - -s 100 → packet size 100 bytes  
 
-![Ping Options](images/Ping-Basics-StudentID-options.png)
+![Ping Options](images/Ping-Basics-12308908-options-1.png)
+
+![Ping Options](images/Ping-Basics-12308908-options-2.png)
+
+![Ping Options](images/Ping-Basics-12308908-options-3.png)
+
+![Ping Options](images/Ping-Basics-12308908-options-4.png)
 
 ---
 
@@ -166,14 +172,17 @@ Options used:
 
 - Week02-Portfolio.md  
 - Setting-IP-StudentID.gns3project  
-- images/Setting-IP-StudentID-network.png  
-- images/Setting-IP-StudentID-host1.png  
-- images/Setting-IP-StudentID-host2.png  
-- images/Setting-IP-StudentID-host3.png  
-- images/Setting-IP-StudentID-host4.png  
-- images/Ping-Basics-StudentID-simple.png  
-- images/Ping-Basics-StudentID-error.png  
-- images/Ping-Basics-StudentID-options.png  
+- images/Setting-IP-12308908-network.png  
+- images/Setting-IP-12308908-host1.png  
+- images/Setting-IP-12308908-host2.png  
+- images/Setting-IP-12308908-host3.png  
+- images/Setting-IP-12308908-host4.png  
+- images/Ping-Basics-12308908-simple.png  
+- images/Ping-Basics-12308908-error.png  
+- images/Ping-Basics-12308908-options-1.png
+- images/Ping-Basics-12308908-options-2.png
+- images/Ping-Basics-12308908-options-3.png
+- images/Ping-Basics-12308908-options-4.png
 
 ---
 

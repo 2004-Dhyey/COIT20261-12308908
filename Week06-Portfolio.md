@@ -84,9 +84,8 @@ This demonstrated how ARP dynamically updates.
 
 Screenshots included:
 
-- ARP-Basics-12308908-HostA-Table1.png  
-- ARP-Basics-12308908-HostA-Table2.png  
-- ARP-Basics-12308908-HostA-Table3.png  
+- ARP-Basics-12308908-HostA-Table1.png
+![Table](images/ARP-Basics-12308908-HostA-Table.png)
 
 These screenshots illustrate ARP table changes.
 
@@ -169,8 +168,11 @@ Ping was successful, confirming routing worked correctly.
 
 Files included:
 
-- Default-Gateway-12308908-network.png  
+- Default-Gateway-12308908-network.png
+![Network](images/Default-Gateway-12308908-network.png)
+
 - Default-Gateway-12308908-ping.png  
+![Ping](images/Default-Gateway-12308908-ping.png) 
 
 ---
 

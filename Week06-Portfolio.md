@@ -168,7 +168,8 @@ Ping was successful, confirming routing worked correctly.
 
 Files included:
 
-- Default-Gateway-network
+- Default-Gateway-network.
+  
 ![Network](images/Default-Gateway-12308908-network.png)
 
 - Default-Gateway-12308908-ping.png  

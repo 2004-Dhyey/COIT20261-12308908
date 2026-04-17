@@ -172,7 +172,8 @@ Files included:
   
 ![Network](images/Default-Gateway-12308908-network.png)
 
-- Default-Gateway-12308908-ping.png  
+- Default-Gateway-ping
+  
 ![Ping](images/Default-Gateway-12308908-ping.png) 
 
 ---

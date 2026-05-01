@@ -94,7 +94,7 @@ Observed DORA Process:
 ## Task 1 Outputs
 
 - DHCP-Client-12308908.gns3project  
-- Network topology screenshot  
+![NETWORK](images/DHCP-Client-12308908-network.png) 
 - Host1 DHCP screenshot  
 - Host2 interfaces configuration  
 - Packet capture (.pcap file)  
